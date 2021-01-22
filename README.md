@@ -1,2 +1,2 @@
-# First-project
+# Wardrobe app
 QA personal project
