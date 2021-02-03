@@ -38,4 +38,7 @@ See below my initial set up
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> develop
