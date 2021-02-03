@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<!-- layout.html -->
+
+<html>
+	<head>
+		<tile> My Wardrobe- {{ title}}</title>
+	</head>
+	<body>
+		<h1>My Watdrobe- {{ title}}</h1>
+		<a href="{{ url_for('home') }}">Home</a>
+		<a href="{{ url_for('add) }}">New Top</a>
+		{% block body %}
+		{% endblock doby %}
+	</body>
+</html>
