@@ -1,4 +1,4 @@
-# My Wardrobe - An app that stores your warbrobe contents and outfit creater
+# My Wardrobe
 
 ---
 
