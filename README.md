@@ -26,8 +26,6 @@ I have decided to create an app that stores what garments you have in your wardr
 
 I drew inspiration from the 1995 film **Clueless** which features [Cher's Wardrobe.](https://www.youtube.com/watch?v=XNDubWJU0aU) With further training, I would love to revisit this project and add the ability to add images.
 
-## Project planning using a Kanban Board
-
 ---
 
 ## Project Planning
