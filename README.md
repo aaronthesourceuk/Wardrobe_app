@@ -26,8 +26,15 @@ I have decided to create an app that stores what garments you have in your wardr
 
 I drew inspiration from the 1995 film **Clueless** which features [Cher's Wardrobe.](https://www.youtube.com/watch?v=XNDubWJU0aU) With further training, I would love to revisit this project and add the ability to add images.
 
-## Project planning using a Kanban Board
-
 ---
 
-My Trello Board can be found [here](https://trello.com/b/sTnvvxw5/wardrobe-app)
+## Project Planning
+
+For planning and tracking the progression of my project, I will be using [this Trello](https://trello.com/b/sTnvvxw5/wardrobe-app) Kanban board.
+
+See below my initial set up
+
+![initial Trello board](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601403056db483360a0d1327/370f225ab33bdb4606181188af8cce56/Screenshot_(46).png)
+
+
+
