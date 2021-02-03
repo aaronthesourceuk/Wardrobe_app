@@ -36,11 +36,4 @@ See below my initial set up
 
 ![initial Trello board](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601403056db483360a0d1327/370f225ab33bdb4606181188af8cce56/Screenshot_(46).png)
 
-## Project Planning
-
-For planning and tracking the progression of my project, I will be using [this Trello](https://trello.com/b/sTnvvxw5/wardrobe-app) Kanban board.
-
-See below my initial set up
-
-![initial Trello board](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601403056db483360a0d1327/370f225ab33bdb4606181188af8cce56/Screenshot_(46).png)
 
