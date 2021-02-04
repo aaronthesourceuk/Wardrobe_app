@@ -4,13 +4,21 @@
 
 <html>
 	<head>
-		<tile> My Wardrobe- {{ title}}</title>
-	</head>
+		<tile> My Wardrobe </title>
+			<!-- Bootstrap core CSS -->
+			<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+			<!-- Custom styles for this template -->
+			<link href="https://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+	
+		</head>
 	<body>
-		<h1>My Watdrobe- {{ title}}</h1>
+		<h1>My Warbrobe</h1>
+		
 		<a href="{{ url_for('home') }}">Home</a>
-		<a href="{{ url_for('add) }}">New Top</a>
-		{% block body %}
-		{% endblock doby %}
+		<a href="{{ url_for('add) }}">New Garment</a>
+		
 	</body>
+	<footer>
+		<p>© 2021 Ashley Edge</p>
+	</footer>
 </html>
